@@ -1,5 +1,5 @@
-# SegundaProva__projeto19
-<br/>
+
+## My test - Eclipse connection to the database
 
 <br/>
 Este é um dos meus Projetos em Java que foram feitos durante uma das matérias do curso de Técnico em Informática que fiz. <br/>
